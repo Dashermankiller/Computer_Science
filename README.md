@@ -61,3 +61,8 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 -https://www.youtube.com/watch?v=6tuZHqcf2QA&t=6s
 -https://www.youtube.com/watch?v=rCxi-O79sVo&t=16s
 -https://www.youtube.com/watch?v=rCxi-O79sVo&list=PL0o_zxa4K1BVKErFko9je9IBZ0hXWXVtV
+
+## additional Info:
+-https://www.youtube.com/watch?v=mCq8-xTH7jA&index=2&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
+-https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Computer Science (Crash Course))
+-https://cs.fit.edu/~ryan/cse1002/lectures/introduction.pdf
