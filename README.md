@@ -55,13 +55,17 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 -https://pdhonline.com/courses/e326/e326_new.htm
 
 ## Week 23 (Algebra,Calclus)
-<h1>(Algebra Introduction - Basic Overview)</h1>
+##(Algebra Introduction - Basic Overview)
 -https://www.youtube.com/watch?v=grnP3mduZkM&t=2740s
-<h1>(College Algebra Introduction Review)</h1>
+##(College Algebra Introduction Review)
 -https://www.youtube.com/watch?v=ouUaxWVJNSI
+##Pre-Algebra
 -https://www.youtube.com/watch?v=vhm8ri0XNBM
+##Algebra Review
 -https://www.youtube.com/watch?v=6tuZHqcf2QA&t=6s
+##Calculus 1 Introduction
 -https://www.youtube.com/watch?v=rCxi-O79sVo&t=16s
+##Calculus Tutorial Playlist
 -https://www.youtube.com/watch?v=rCxi-O79sVo&list=PL0o_zxa4K1BVKErFko9je9IBZ0hXWXVtV
 
 ## additional Info:
