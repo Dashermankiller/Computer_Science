@@ -53,7 +53,8 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 -https://marksee101.appspot.com/course
 -https://www.coursera.org/learn/digital-systems
 -https://pdhonline.com/courses/e326/e326_new.htm
-## Week 23 (Math,Algebra,Calclus)
+
+## Week 23 (Algebra,Calclus)
 -https://www.youtube.com/watch?v=grnP3mduZkM&t=2740s
 -https://www.youtube.com/watch?v=ouUaxWVJNSI
 -https://www.youtube.com/watch?v=vhm8ri0XNBM
